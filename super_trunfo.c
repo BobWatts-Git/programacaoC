@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-    // Variáveis para a primeira carta
+    // Definição de variáveis para a primeira carta
     char estado1;
     char codigo1[4];
     char nomeCidade1[50];
@@ -10,7 +10,7 @@ int main() {
     float pib1;
     int numPontosTuristicos1;
 
-    // Variáveis para a segunda carta
+    // Definição de variáveis para a segunda carta
     char estado2;
     char codigo2[4];
     char nomeCidade2[50];
